@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bioexplorer.net%2Fanimals%2Fmammals%2Fmonkeys%2Fblack%2F&psig=AOvVaw38nVj8LYrT-av5Yb1UftSO&ust=1711840744217000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCa0-3NmoUDFQAAAAAdAAAAABAE)
+![Swiss Alps](https://www.bioexplorer.net/file/Jet-Black-Crested-Black-macaque.jpg)
 
 
 ## MathJax
