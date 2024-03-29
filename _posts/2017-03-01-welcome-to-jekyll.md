@@ -1,25 +1,19 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to ELisons store"
 layout: post
 ---
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+elison monkey ooga booga poopie doggy bananana
 
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('elison')
+#=> prints 'Hi,elison' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Elison docs][Elison-docs] for more info on how to get the most out of ELison. File all bugs/feature requests at [Elison GitHub repo][ELison-gh]. If you have questions, you can ask them on [ELisonTalk][ELison-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[ELisonl-docs]: http://ELison.com/docs/home
+[ELison-gh]:   https://github.com/ELison/ELison
+[ELisosn-talk]: https://talk.ELison.com/
