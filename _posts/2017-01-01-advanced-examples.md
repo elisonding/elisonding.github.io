@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Swiss Alps](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bioexplorer.net%2Fanimals%2Fmammals%2Fmonkeys%2Fblack%2F&psig=AOvVaw38nVj8LYrT-av5Yb1UftSO&ust=1711840744217000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCa0-3NmoUDFQAAAAAdAAAAABAE)
 
 
 ## MathJax
