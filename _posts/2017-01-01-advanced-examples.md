@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://www.bioexplorer.net/file/Jet-Black-Crested-Black-macaque.jpg)
+![Swiss Alps](https://media.npr.org/assets/img/2014/08/22/monkey-selfie_wide-b3204969d866fa674017d34f97f7748f60f20c10-s1400-c100.jpg)
 
 
 ## MathJax
