@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "monkey hegeggews"
+title: "blog"
 ---
 
 {% if site.show_excerpts %}
